@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Md Yasin 👋
 
-<!--
-**yasinarafath25/yasinarafath25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Android Developer building real-world digital solutions
 
-Here are some ideas to get you started:
+I build modern Android applications that solve real-world problems —
+from smart food management and community services to digital finance and
+offline-first business solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Kotlin • Jetpack Compose • Firebase • Supabase • Clean Architecture • AI/ML**
+
+---
+
+### 🔭 Currently Building
+
+🍱 **FoodSave** — Smart food management & food waste reduction  
+💰 **Lenden Wallet** — Digital ledger for personal & business transactions  
+🌐 **Karimganj** — Community-focused digital platform
+
+---
+
+### 💡 My Development Philosophy
+
+> Build simple.  
+> Solve real problems.  
+> Write clean code.  
+> Create useful products.
+
+---
+
+### 📫 Get in Touch
+
+📧 **mdyasinarafath20@gmail.com**
